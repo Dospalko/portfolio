@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+
 import {FaArrowRight} from 'react-icons/fa'
 
 import "aos/dist/aos.css"

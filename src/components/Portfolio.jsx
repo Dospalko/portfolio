@@ -1,9 +1,7 @@
 import React from "react";
 
-import port from "../assets/port.png";
-import a from "../assets/1.jpg";
 
-import { SiFlutter } from "react-icons/si";
+import a from "../assets/1.jpg";
 
 const Portfolio = () => {
   return (
